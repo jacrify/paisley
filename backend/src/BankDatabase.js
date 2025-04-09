@@ -134,7 +134,6 @@ class BankDatabase {
     }
 }
 
-    // Method removed from class body
 
 
 // Singleton instance is not created until the first call without a path
